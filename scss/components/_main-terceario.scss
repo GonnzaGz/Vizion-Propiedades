@@ -1,0 +1,43 @@
+
+@import "../base/variables";
+@import "../base/mixins";
+@import "../base/listas";
+@import "../base/fuentes";
+@import "../base/extends";
+@import "../base/colores";
+@import "../base/mapas";
+@import "../base/mediaqueris";
+
+.section-descriptivo {
+    text-align: center;
+    margin: 3rem 2rem 10rem 2rem;
+
+    h1 {
+        margin-top: 2rem;
+    }
+    
+    p {
+        margin-top: 2rem;
+    }
+}
+
+.section-descriptivo-imagenes {
+    border: 0.1rem solid white;
+    width: 100%;
+    padding-top: 0.5rem;
+
+    img {
+        height: 350px;
+        width: 500px;
+        border-radius: 0.1rem;
+        margin: 0rem 1rem 1rem 0rem;
+    }
+}
+
+.animacion-3 {
+
+    &:hover {
+    transition: all 1s ease;
+    transform: scale(1.05);
+    }
+}
