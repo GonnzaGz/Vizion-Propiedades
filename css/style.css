@@ -156,6 +156,11 @@ main {
   color: black;
 }
 
+.formulario-boton-2 {
+  color: white;
+  background-color: black;
+}
+
 body {
   font-family: "Roboto Condensed", sans-serif;
 }
@@ -612,6 +617,11 @@ main {
 
 .section-descriptivo {
   color: black;
+}
+
+.formulario-boton-2 {
+  color: white;
+  background-color: black;
 }
 
 body {
@@ -1074,6 +1084,11 @@ main {
 
 .section-descriptivo {
   color: black;
+}
+
+.formulario-boton-2 {
+  color: white;
+  background-color: black;
 }
 
 body {
@@ -1603,6 +1618,11 @@ main {
 
 .section-descriptivo {
   color: black;
+}
+
+.formulario-boton-2 {
+  color: white;
+  background-color: black;
 }
 
 body {
@@ -2135,6 +2155,11 @@ main {
   color: black;
 }
 
+.formulario-boton-2 {
+  color: white;
+  background-color: black;
+}
+
 body {
   font-family: "Roboto Condensed", sans-serif;
 }
@@ -2627,6 +2652,11 @@ main {
   color: black;
 }
 
+.formulario-boton-2 {
+  color: white;
+  background-color: black;
+}
+
 body {
   font-family: "Roboto Condensed", sans-serif;
 }
@@ -3101,6 +3131,11 @@ main {
   color: black;
 }
 
+.formulario-boton-2 {
+  color: white;
+  background-color: black;
+}
+
 body {
   font-family: "Roboto Condensed", sans-serif;
 }
@@ -3427,6 +3462,11 @@ body {
 .animacion-3:hover {
   transition: all 1s ease;
   transform: scale(1.05);
+}
+
+.consultas {
+  margin: auto;
+  width: 20rem;
 }
 
 .formulario-consulta {
