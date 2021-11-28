@@ -32,6 +32,10 @@
         border-radius: 0.1rem;
         margin: 0rem 1rem 1rem 0rem;
     }
+
+        &:hover {
+            box-shadow: 7px 13px 37px nth($colores, 3);
+        }
 }
 
 .animacion-3 {
@@ -40,4 +44,20 @@
     transition: all 1s ease;
     transform: scale(1.05);
     }
+}
+
+.formulario-consulta {
+    width: 10rem;
+    margin-bottom: 0.3rem;
+}
+
+.formulario-consulta-2 {
+    width: 10rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0.3rem;
+}
+
+.formulario-boton-2 {
+    border-radius: 0.1rem;
+    letter-spacing: $space-02;
 }

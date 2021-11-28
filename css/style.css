@@ -114,7 +114,13 @@ main {
 }
 
 .section-newsletter {
-  color: black;
+  color: white;
+  background-color: #800040;
+}
+
+.newsletter-boton {
+  color: white;
+  background-color: black;
 }
 
 .footer-section {
@@ -124,6 +130,11 @@ main {
 
 .servicios:hover {
   color: black;
+}
+
+.formulario-boton {
+  color: white;
+  background-color: black;
 }
 
 .section-general {
@@ -162,7 +173,7 @@ body {
   border-color: black;
 }
 .transparencia:hover {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /* Media queris */
@@ -561,7 +572,13 @@ main {
 }
 
 .section-newsletter {
-  color: black;
+  color: white;
+  background-color: #800040;
+}
+
+.newsletter-boton {
+  color: white;
+  background-color: black;
 }
 
 .footer-section {
@@ -571,6 +588,11 @@ main {
 
 .servicios:hover {
   color: black;
+}
+
+.formulario-boton {
+  color: white;
+  background-color: black;
 }
 
 .section-general {
@@ -605,7 +627,7 @@ body {
   border-color: black;
 }
 .transparencia:hover {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /* Media queris */
@@ -1012,7 +1034,13 @@ main {
 }
 
 .section-newsletter {
-  color: black;
+  color: white;
+  background-color: #800040;
+}
+
+.newsletter-boton {
+  color: white;
+  background-color: black;
 }
 
 .footer-section {
@@ -1022,6 +1050,11 @@ main {
 
 .servicios:hover {
   color: black;
+}
+
+.formulario-boton {
+  color: white;
+  background-color: black;
 }
 
 .section-general {
@@ -1056,7 +1089,7 @@ body {
   border-color: black;
 }
 .transparencia:hover {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /* Media queris */
@@ -1356,9 +1389,9 @@ body {
 }
 
 .propiedad-destacada {
-  border: 0.1rem solid white;
   width: 100%;
   padding-top: 0.5rem;
+  border: 0.1rem solid white;
 }
 .propiedad-destacada img {
   height: 250px;
@@ -1367,6 +1400,9 @@ body {
 }
 .propiedad-destacada h2, .propiedad-destacada h3 {
   margin-top: 1rem;
+}
+.propiedad-destacada:hover {
+  box-shadow: 7px 13px 37px grey;
 }
 
 .h2-destacadas {
@@ -1397,8 +1433,14 @@ body {
 }
 
 .section-newsletter {
-  margin: 5rem 1.5rem 8rem 1.5rem;
+  margin: 5rem 0rem 8rem 0rem;
+  padding: 3rem 0rem 4rem 0rem;
   text-align: center;
+}
+
+.newsletter-boton {
+  border-radius: 0.1rem;
+  letter-spacing: 0.2rem;
 }
 
 .animacion:hover {
@@ -1521,7 +1563,13 @@ main {
 }
 
 .section-newsletter {
-  color: black;
+  color: white;
+  background-color: #800040;
+}
+
+.newsletter-boton {
+  color: white;
+  background-color: black;
 }
 
 .footer-section {
@@ -1531,6 +1579,11 @@ main {
 
 .servicios:hover {
   color: black;
+}
+
+.formulario-boton {
+  color: white;
+  background-color: black;
 }
 
 .section-general {
@@ -1565,7 +1618,7 @@ body {
   border-color: black;
 }
 .transparencia:hover {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /* Media queris */
@@ -1888,13 +1941,32 @@ body {
 
 .comuniquese {
   padding-bottom: 10.1rem;
+  width: 12rem;
+  margin-bottom: -12.8rem;
+}
+
+.formulario-1 {
+  width: 10rem;
+  margin-bottom: 0.3rem;
+}
+
+.formulario-2 {
+  width: 10rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0.3rem;
+}
+
+.formulario-boton {
+  border-radius: 0.1rem;
+  letter-spacing: 0.2rem;
 }
 
 .ubicacion {
+  margin-bottom: 0rem;
   padding-top: 0rem;
 }
 .ubicacion p {
-  margin: auto;
+  margin: auto 0rem 1rem 0rem;
 }
 
 .ubicacion-2 {
@@ -2021,7 +2093,13 @@ main {
 }
 
 .section-newsletter {
-  color: black;
+  color: white;
+  background-color: #800040;
+}
+
+.newsletter-boton {
+  color: white;
+  background-color: black;
 }
 
 .footer-section {
@@ -2031,6 +2109,11 @@ main {
 
 .servicios:hover {
   color: black;
+}
+
+.formulario-boton {
+  color: white;
+  background-color: black;
 }
 
 .section-general {
@@ -2065,7 +2148,7 @@ body {
   border-color: black;
 }
 .transparencia:hover {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /* Media queris */
@@ -2383,6 +2466,9 @@ body {
 .descriptivo-general-imagen h2, .descriptivo-general-imagen h3 {
   margin-top: 1rem;
 }
+.descriptivo-general-imagen:hover {
+  box-shadow: 7px 13px 37px grey;
+}
 
 .section-parrafo {
   font-size: 1.13rem;
@@ -2499,7 +2585,13 @@ main {
 }
 
 .section-newsletter {
-  color: black;
+  color: white;
+  background-color: #800040;
+}
+
+.newsletter-boton {
+  color: white;
+  background-color: black;
 }
 
 .footer-section {
@@ -2509,6 +2601,11 @@ main {
 
 .servicios:hover {
   color: black;
+}
+
+.formulario-boton {
+  color: white;
+  background-color: black;
 }
 
 .section-general {
@@ -2543,7 +2640,7 @@ body {
   border-color: black;
 }
 .transparencia:hover {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /* Media queris */
@@ -2962,7 +3059,13 @@ main {
 }
 
 .section-newsletter {
-  color: black;
+  color: white;
+  background-color: #800040;
+}
+
+.newsletter-boton {
+  color: white;
+  background-color: black;
 }
 
 .footer-section {
@@ -2972,6 +3075,11 @@ main {
 
 .servicios:hover {
   color: black;
+}
+
+.formulario-boton {
+  color: white;
+  background-color: black;
 }
 
 .section-general {
@@ -3006,7 +3114,7 @@ body {
   border-color: black;
 }
 .transparencia:hover {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /* Media queris */
@@ -3312,10 +3420,29 @@ body {
   border-radius: 0.1rem;
   margin: 0rem 1rem 1rem 0rem;
 }
+.section-descriptivo-imagenes:hover {
+  box-shadow: 7px 13px 37px grey;
+}
 
 .animacion-3:hover {
   transition: all 1s ease;
   transform: scale(1.05);
+}
+
+.formulario-consulta {
+  width: 10rem;
+  margin-bottom: 0.3rem;
+}
+
+.formulario-consulta-2 {
+  width: 10rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0.3rem;
+}
+
+.formulario-boton-2 {
+  border-radius: 0.1rem;
+  letter-spacing: 0.2rem;
 }
 
 /*# sourceMappingURL=style.css.map */

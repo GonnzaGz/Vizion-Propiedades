@@ -51,13 +51,31 @@
 
 .comuniquese {
     padding-bottom: 10.1rem;
+    width: 12rem;
+    margin-bottom: -12.8rem;
+}
+
+.formulario-1 {
+    width: 10rem;
+    margin-bottom: 0.3rem;
+}
+
+.formulario-2 {
+    width: 10rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0.3rem;
+}
+
+.formulario-boton {
+    border-radius: 0.1rem;
+    letter-spacing: $space-02;
 }
 
 .ubicacion {
+    margin-bottom: 0rem;
     padding-top: 0rem;
-
     p {
-        margin: auto;
+        margin: auto 0rem 1rem 0rem;
     }
 
 }

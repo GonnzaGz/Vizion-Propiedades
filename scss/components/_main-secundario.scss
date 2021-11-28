@@ -45,4 +45,8 @@
     h2, h3 {
         margin-top: 1rem;
     }
+
+        &:hover {
+            box-shadow: 7px 13px 37px nth($colores, 3);
+        }
 }

@@ -4,6 +4,6 @@ $transparente: black;
 .transparencia {
     border-color: $transparente;
     &:hover {
-        color: rgba($transparente, 0.5);
+        color: rgba($transparente, 0.9);
     }
 }
