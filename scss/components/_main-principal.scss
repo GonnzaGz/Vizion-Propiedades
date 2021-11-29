@@ -143,3 +143,19 @@
         transform: scale(1.05);
     }
 }
+
+.contenedor-qpp {
+    position: fixed;
+    z-index: 999;
+
+    &:hover {
+        transition: all 1s ease;
+        transform: scale(1.05);
+        box-shadow: 7px 13px 37px nth($colores, 3);
+    }
+}
+
+.wpp-boton {
+    width: 80px;
+    transition: ease 1s;
+}

@@ -1463,6 +1463,21 @@ body {
   transform: scale(1.05);
 }
 
+.contenedor-qpp {
+  position: fixed;
+  z-index: 999;
+}
+.contenedor-qpp:hover {
+  transition: all 1s ease;
+  transform: scale(1.05);
+  box-shadow: 7px 13px 37px grey;
+}
+
+.wpp-boton {
+  width: 80px;
+  transition: ease 1s;
+}
+
 .section-parrafo {
   font-size: 1.13rem;
   letter-spacing: 0.1rem;
@@ -3466,18 +3481,18 @@ body {
 
 .consultas {
   margin: auto;
-  width: 50rem;
+  width: 40rem;
 }
 
 .formulario-consulta {
-  width: 50rem;
-  margin-bottom: 0.3rem;
+  width: 20rem;
+  margin-bottom: 0.5rem;
 }
 
 .formulario-consulta-2 {
-  width: 50rem;
+  width: 40rem;
   padding-bottom: 3rem;
-  margin-bottom: 0.3rem;
+  margin-bottom: 1rem;
 }
 
 .formulario-boton-2 {
