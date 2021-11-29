@@ -39,6 +39,7 @@
 }
 
 .animacion-3 {
+    transition: 1s;
 
     &:hover {
     transition: all 1s ease;
@@ -48,17 +49,17 @@
 
 .consultas {
     margin: auto;
-    width: 40rem;
+    width: 30rem;
 }
 
 .formulario-consulta {
-    width: 20rem;
+    width: 30rem;
     margin-bottom: 0.5rem;
 }
 
 .formulario-consulta-2 {
-    width: 40rem;
-    padding-bottom: 3rem;
+    width: 30rem;
+    padding-bottom: 4rem;
     margin-bottom: 1rem;
 }
 

@@ -1458,13 +1458,16 @@ body {
   letter-spacing: 0.2rem;
 }
 
+.animacion {
+  transition: 1s;
+}
 .animacion:hover {
   transition: all 1s ease;
   transform: scale(1.05);
 }
 
 .contenedor-qpp {
-  position: fixed;
+  position: relative;
   z-index: 999;
 }
 .contenedor-qpp:hover {
@@ -1474,8 +1477,12 @@ body {
 }
 
 .wpp-boton {
+  position: fixed;
   width: 80px;
   transition: ease 1s;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
 }
 
 .section-parrafo {
@@ -2008,6 +2015,9 @@ body {
   display: none;
 }
 
+.animacion-2 {
+  transition: 1s;
+}
 .animacion-2:hover {
   transition: all 1s ease;
   transform: scale(1.3);
@@ -3474,6 +3484,9 @@ body {
   box-shadow: 7px 13px 37px grey;
 }
 
+.animacion-3 {
+  transition: 1s;
+}
 .animacion-3:hover {
   transition: all 1s ease;
   transform: scale(1.05);
@@ -3481,17 +3494,17 @@ body {
 
 .consultas {
   margin: auto;
-  width: 40rem;
+  width: 30rem;
 }
 
 .formulario-consulta {
-  width: 20rem;
+  width: 30rem;
   margin-bottom: 0.5rem;
 }
 
 .formulario-consulta-2 {
-  width: 40rem;
-  padding-bottom: 3rem;
+  width: 30rem;
+  padding-bottom: 4rem;
   margin-bottom: 1rem;
 }
 
