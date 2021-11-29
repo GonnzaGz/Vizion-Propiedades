@@ -31,11 +31,11 @@
         width: 500px;
         border-radius: 0.1rem;
         margin: 0rem 1rem 1rem 0rem;
+        transition: 1s;
     }
 
         &:hover {
             box-shadow: 7px 13px 37px nth($colores, 3);
-            transition: 1s;
         }
 }
 
