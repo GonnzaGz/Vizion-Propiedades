@@ -1468,7 +1468,6 @@ body {
 
 .contenedor-qpp {
   position: relative;
-  z-index: 999;
 }
 .contenedor-qpp:hover {
   transition: all 1s ease;
@@ -1481,6 +1480,7 @@ body {
   width: 80px;
   transition: ease 1s;
   left: 90%;
+  z-index: 999;
 }
 
 .section-parrafo {

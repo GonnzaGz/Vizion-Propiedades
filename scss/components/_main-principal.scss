@@ -147,7 +147,6 @@
 
 .contenedor-qpp {
     position: relative;
-    z-index: 999;
 
     &:hover {
         transition: all 1s ease;
@@ -161,4 +160,5 @@
     width: 80px;
     transition: ease 1s;
     left: 90%;
+    z-index: 999;
 }
