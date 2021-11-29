@@ -1480,7 +1480,7 @@ body {
   width: 80px;
   transition: ease 1s;
   left: 90%;
-  z-index: 999;
+  z-index: 1;
 }
 
 .section-parrafo {
