@@ -8,6 +8,18 @@
 
 // main-principal
 
+.block-2 h2 {
+    @include prefij-font-space($fsize-2, $space-03)
+}
+
+.block-3 p {
+    @include prefij-font-space($fsize-1, $space-01)
+}
+
+.block-5 h2 {
+    @include prefij-font-space($fsize-2, $space-03)
+}
+
 .section-parrafo {
     @include prefij-font-space($fsize-113, $space-01)
 }
@@ -25,7 +37,7 @@
 }
 
 .section-servicios {
-    @include prefij-font-space($fsize-113, $space-01)
+    @include prefij-font-space($fsize-1, $space-01)
 }
 
 .section-servicios h3 {
