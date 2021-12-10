@@ -96,12 +96,6 @@ html {
     height: 20rem;
     background-color: nth($colores, 4);
     border-radius: 0.3rem;
-        h2 {
-            position: absolute;
-            left: 32rem;
-            top: 5rem;
-            z-index: 999;
-        }
 }
 
 .block-3 {
@@ -113,6 +107,17 @@ html {
     background-color: nth($colores, 2);
     border-radius: 0.3rem;
     z-index: 99;
+        
+        h2 {
+            position: absolute;
+            left: 21.5rem;
+            top: 2.25rem;
+            z-index: 999;
+            color: nth($colores, 2);
+            background-color: nth($colores, 4);
+            border: 0.1px solid nth($colores, 1);
+            border-radius: 0.3rem;
+        }
 
         p {
             text-align: center;
@@ -306,12 +311,12 @@ html {
     position: fixed;
     color: nth($colores, 5);
     bottom: 50px;
-    right: 80px;
+    right: 50px;
     z-index: 9999;
     transition: all 1s ease;
 
         i {
-        font-size: 100px;
+            font-size: 75px;
         }
 
         &:hover {
