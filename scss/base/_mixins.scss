@@ -48,7 +48,6 @@
 @include prefij-font-space($fsize-15, $space-05)
 }
 
-
 //footer
 
 .footer-section {
@@ -77,6 +76,18 @@
 
 .h1-nosotros p {
     @include prefij-font-space($fsize-15, $space-01)
+}
+
+.section-servicios h2 {
+    @include prefij-font-space($fsize-2, $space-05)
+}
+
+.servicios-nosotros h3 {
+    @include prefij-font-space($fsize-15, $space-03)
+}
+
+.section-servicios p {
+    @include prefij-font-space($fsize-1, $space-01)
 }
 
 //main-terceario

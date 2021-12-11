@@ -79,6 +79,21 @@
   letter-spacing: 0.1rem;
 }
 
+.section-servicios h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+}
+
+.servicios-nosotros h3 {
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+.section-servicios p {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
+
 .section-descriptivo h1 {
   font-size: 2rem;
   letter-spacing: 0.2rem;
@@ -559,6 +574,21 @@ body {
 
 .h1-nosotros p {
   font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+}
+
+.section-servicios h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+}
+
+.servicios-nosotros h3 {
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+.section-servicios p {
+  font-size: 1rem;
   letter-spacing: 0.1rem;
 }
 
@@ -1046,6 +1076,21 @@ body {
 
 .h1-nosotros p {
   font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+}
+
+.section-servicios h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+}
+
+.servicios-nosotros h3 {
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+.section-servicios p {
+  font-size: 1rem;
   letter-spacing: 0.1rem;
 }
 
@@ -1780,6 +1825,21 @@ html {
   letter-spacing: 0.1rem;
 }
 
+.section-servicios h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+}
+
+.servicios-nosotros h3 {
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+.section-servicios p {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
+
 .section-descriptivo h1 {
   font-size: 2rem;
   letter-spacing: 0.2rem;
@@ -2338,6 +2398,21 @@ body {
   letter-spacing: 0.1rem;
 }
 
+.section-servicios h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+}
+
+.servicios-nosotros h3 {
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+.section-servicios p {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
+
 .section-descriptivo h1 {
   font-size: 2rem;
   letter-spacing: 0.2rem;
@@ -2855,6 +2930,21 @@ body {
   letter-spacing: 0.1rem;
 }
 
+.section-servicios h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+}
+
+.servicios-nosotros h3 {
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+.section-servicios p {
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
+
 .section-descriptivo h1 {
   font-size: 2rem;
   letter-spacing: 0.2rem;
@@ -3274,6 +3364,16 @@ body {
   text-shadow: 1px 1px 1px black;
 }
 
+.servicios-nosotros h2 {
+  margin: 5rem 0rem 3rem 0rem;
+}
+.servicios-nosotros h3 {
+  margin: 0rem 0rem 2rem 0rem;
+}
+.servicios-nosotros p {
+  margin: 0rem 0rem 5rem 0rem;
+}
+
 .block-3 h2 {
   font-size: 2rem;
   letter-spacing: 0.2rem;
@@ -3351,6 +3451,21 @@ body {
 
 .h1-nosotros p {
   font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+}
+
+.section-servicios h2 {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+}
+
+.servicios-nosotros h3 {
+  font-size: 1.5rem;
+  letter-spacing: 0.3rem;
+}
+
+.section-servicios p {
+  font-size: 1rem;
   letter-spacing: 0.1rem;
 }
 
