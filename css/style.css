@@ -3366,12 +3366,13 @@ body {
 
 .servicios-nosotros h2 {
   margin: 5rem 0rem 3rem 0rem;
+  text-align: center;
 }
 .servicios-nosotros h3 {
-  margin: 0rem 0rem 2rem 0rem;
+  margin: 0rem 1.5rem 2rem 1.5rem;
 }
 .servicios-nosotros p {
-  margin: 0rem 0rem 5rem 0rem;
+  margin: 0rem 1.5rem 5rem 1.5rem;
 }
 
 .block-3 h2 {
