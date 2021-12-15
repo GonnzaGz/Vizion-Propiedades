@@ -204,7 +204,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.formulario.consulta, .section-descriptivo-general, .formulario-1, .section-destacadas {
+.section-descriptivo-general, .section-destacadas {
   display: grid;
   text-align: center;
 }
@@ -698,7 +698,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .section-descriptivo-general {
   display: grid;
   text-align: center;
 }
@@ -1200,7 +1200,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .section-descriptivo-general {
   display: grid;
   text-align: center;
 }
@@ -1946,7 +1946,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .section-descriptivo-general {
   display: grid;
   text-align: center;
 }
@@ -2279,15 +2279,12 @@ body {
 .comuniquese {
   padding-bottom: 3rem;
   width: 12rem;
-  margin-bottom: -5.9rem;
+  margin-bottom: 6rem;
 }
 
 .formulario-1 {
-  width: 5rem;
+  width: 10rem;
   margin-bottom: 0.3rem;
-  grid-template-rows: 1fr 1fr;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.5rem;
 }
 
 .formulario-2 {
@@ -2522,7 +2519,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .section-descriptivo-general {
   display: grid;
   text-align: center;
 }
@@ -3058,7 +3055,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .section-descriptivo-general {
   display: grid;
   text-align: center;
 }
@@ -3586,7 +3583,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .section-descriptivo-general {
   display: grid;
   text-align: center;
 }
