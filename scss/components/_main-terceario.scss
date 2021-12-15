@@ -57,6 +57,9 @@
 .formulario-consulta {
     width: 30rem;
     margin-bottom: 0.5rem;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
 }
 
 .formulario-consulta-2 {
