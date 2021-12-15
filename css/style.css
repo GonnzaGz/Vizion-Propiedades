@@ -204,7 +204,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.formulario.consulta, .section-descriptivo-general, .section-destacadas {
+.formulario.consulta, .section-descriptivo-general, .formulario-1, .section-destacadas {
   display: grid;
   text-align: center;
 }
@@ -698,7 +698,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -1200,7 +1200,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -1946,7 +1946,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -2279,12 +2279,15 @@ body {
 .comuniquese {
   padding-bottom: 3rem;
   width: 12rem;
-  margin-bottom: -5.8rem;
+  margin-bottom: -5.9rem;
 }
 
 .formulario-1 {
-  width: 10rem;
+  width: 5rem;
   margin-bottom: 0.3rem;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
 }
 
 .formulario-2 {
@@ -2519,7 +2522,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -3055,7 +3058,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -3583,7 +3586,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general, .formulario.consulta {
+.section-destacadas, .formulario-1, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -3914,7 +3917,7 @@ body {
 
 .consultas {
   margin: auto;
-  width: 30rem;
+  width: 30.5rem;
 }
 
 .formulario-consulta {
@@ -3926,10 +3929,9 @@ body {
 }
 
 .formulario-consulta-2 {
-  width: 30.5rem;
+  width: 30rem;
   padding-bottom: 4rem;
   margin-bottom: 1rem;
-  text-align: center;
 }
 
 .formulario-boton-2 {

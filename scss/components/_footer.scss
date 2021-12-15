@@ -52,12 +52,15 @@
 .comuniquese {
     padding-bottom: 3rem;
     width: 12rem;
-    margin-bottom: -5.8rem;
+    margin-bottom: -5.9rem;
 }
 
 .formulario-1 {
-    width: 10rem;
+    width: 5rem;
     margin-bottom: 0.3rem;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
 }
 
 .formulario-2 {
