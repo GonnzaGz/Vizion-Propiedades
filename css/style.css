@@ -2850,6 +2850,10 @@ body {
   box-shadow: 7px 13px 37px #c2c2c2;
 }
 
+.espacio-1 {
+  margin-bottom: 1rem;
+}
+
 .block-3 h2 {
   font-size: 2rem;
   letter-spacing: 0.2rem;
@@ -3887,6 +3891,7 @@ body {
   border: 0.1rem solid white;
   width: 100%;
   padding-top: 0.5rem;
+  transition: 1s;
 }
 .section-descriptivo-imagenes img {
   height: 350px;
@@ -3924,8 +3929,12 @@ body {
 }
 
 .formulario-boton-2 {
-  border-radius: 0.1rem;
+  border-radius: 0.3rem;
   letter-spacing: 0.2rem;
+}
+
+.espacio-2 {
+  margin-bottom: 2rem;
 }
 
 /*# sourceMappingURL=style.css.map */
