@@ -204,7 +204,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-descriptivo-general, .section-destacadas {
+.formulario.consulta, .section-descriptivo-general, .section-destacadas {
   display: grid;
   text-align: center;
 }
@@ -698,7 +698,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general {
+.section-destacadas, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -1200,7 +1200,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general {
+.section-destacadas, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -1946,7 +1946,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general {
+.section-destacadas, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -2519,7 +2519,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general {
+.section-destacadas, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -3055,7 +3055,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general {
+.section-destacadas, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
@@ -3583,7 +3583,7 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
-.section-destacadas, .section-descriptivo-general {
+.section-destacadas, .section-descriptivo-general, .formulario.consulta {
   display: grid;
   text-align: center;
 }
